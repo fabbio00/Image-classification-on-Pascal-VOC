@@ -20,7 +20,7 @@ This university project focuses on "Object Recognition" using the Pascal VOC 201
 
 ## DATASETS
 
-- [Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
+- <a href="http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar" target="_blank">Pascal VOC 2012</a>
 
 ## SETUP
 
