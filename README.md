@@ -1,6 +1,6 @@
 # Image classification on Pascal VOC
 
-Breve descrizione del progetto (max 3 tweet)
+This university project focuses on "Object Recognition" using the Pascal VOC 2012 dataset, which is rich in images representing various objects in different contexts. The goal is to develop a classification system to determine the presence of objects in the test images by assigning them to one of twenty classes in the dataset. A Convolutional Neural Network (CNN)-based approach is adopted for visual feature extraction. Transfer learning is employed to exploit pre-trained networks on larger datasets. The pyramid sliding window algorithm with the InceptionV3 model is used to handle the classification of multiple objects in images by examining different portions and overlaps.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ Breve descrizione del progetto (max 3 tweet)
 
 ## DATASETS
 
-- [dataset1](dataset1)
+- [Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
 
 ## SETUP
 
