@@ -24,9 +24,8 @@ This university project focuses on "Object Recognition" using the Pascal VOC 201
 
 ## SETUP
 
-Initialize the varaible `main_path` with the path to your workspace.
-
-Initialize the variables with the paths associated with the annotations and images in the dataset that were downloaded from the official Pascal Voc site.
+In the code, initialize the varaible `main_path` with the path to your workspace.
+Then, once you have downloaded the dataset and extracted the folders initialize the varaible `annot_path` with the path for "Annotations" folder and the varaible `images_path` with the path for "JPEGImages" folder
 
 ## PRE-PROCESSING OF DATA
 
